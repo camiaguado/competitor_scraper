@@ -1,0 +1,22 @@
+[
+{"name": "Anniversary Blend", "product_origin": "Etiopía, Guatemala y Costa Rica", "price_low": "16,00€", "price_high": "53,50€"},
+{"name": "Valle de Oro", "product_origin": "El Salvador", "price_low": "14,50€", "price_high": "48,00€"},
+{"name": "Platanillo", "product_origin": "Guatemala", "price_low": "14,00€", "price_high": "46,70€"},
+{"name": "Muthuthuini", "product_origin": "Kenya", "price_low": "16,50€", "price_high": "56,00€"},
+{"name": "Rongo", "product_origin": "Kenya", "price_low": "16,50€", "price_high": "56,00€"},
+{"name": "Klem", "product_origin": "Brasil", "price_low": "13,50€", "price_high": "46,00€"},
+{"name": "Popayan Decaf", "product_origin": "Colombia", "price_low": "13,00€", "price_high": "45,00€"},
+{"name": "Tembo Tembo", "product_origin": "Tanzania", "price_low": "12,50€", "price_high": "42,00€"},
+{"name": "Lava Cherry", "product_origin": "Uganda", "price_low": "14,50€", "price_high": "48,50€"},
+{"name": "Las Brisas", "product_origin": "El Salvador", "price_low": "14,00€", "price_high": "46,50€"},
+{"name": "Secundino", "product_origin": "Perú", "price_low": "14,00€", "price_high": "46,00€"},
+{"name": "Migoti", "product_origin": "Burundi", "price_low": "15,00€", "price_high": "48,00€"},
+{"name": "Summer Latte Pack", "product_origin": "", "price_low": "27,00€", "price_high": null},
+{"name": "Bukonzo Dream", "product_origin": "Uganda", "price_low": "14,50€", "price_high": "48,00€"},
+{"name": "Primrose", "product_origin": "Ethiopia", "price_low": "13,50€", "price_high": "45,00€"},
+{"name": "Aponte", "product_origin": "Colombia", "price_low": "13,00€", "price_high": "43,30€"},
+{"name": "Palomino", "product_origin": "Perú", "price_low": "15,00€", "price_high": "50,00€"},
+{"name": "Don Alexis", "product_origin": "Costa Rica", "price_low": "14,50€", "price_high": "48,50€"},
+{"name": "Espresso Pack", "product_origin": "", "price_low": "39,00€", "price_high": null},
+{"name": "Filter Pack", "product_origin": "", "price_low": "39,00€", "price_high": null}
+]
